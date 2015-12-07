@@ -1,0 +1,17 @@
+{
+  "name": "netr0n/shmestage",
+  "description": "Simple storage of key value based data in PHP shared memory",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "nejtr0n",
+      "email": "a6y@xakep.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  }
+}
